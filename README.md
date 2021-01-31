@@ -15,7 +15,7 @@ Example:
 ![Code](imgs/test_ss.jpg)
 
 Input image:
-![Input](imgs/dp.jpg)
+![Input](imgs/testpic.jpg)
 
 Output image:
 ![Output](imgs/sketch.jpg)
