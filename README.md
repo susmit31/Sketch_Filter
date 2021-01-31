@@ -12,4 +12,11 @@ The default value is 1, meaning that the output will only contain pure black (_g
 So for example, if you have _keep_top=.3, num_cols=2_, then the output will be drawn with two shades of gray for the brightest 30% pixels, plus white background for the remaining 70%. The brightest 30% will be further divided into two halves based on brightness, and the brighter half will receive the darker shade.
 
 Example:
+!Code (https://github.com/susmit31/Sketch_Filter/blob/master/test_ss.jpg?raw=true)
+
+Input image:
+!Input (https://github.com/susmit31/Sketch_Filter/blob/master/dp.jpg?raw=true)
+
+Output image:
+!Output (https://github.com/susmit31/Sketch_Filter/blob/master/sketch.jpg?raw=true)
 
