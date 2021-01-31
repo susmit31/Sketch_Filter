@@ -13,13 +13,13 @@ So for example, if you have _keep_top=.3, num_cols=2_, then the output will be d
 
 Example:
 
-![Code] (/imgs/test_ss.jpg)
+![Code] (https://github.com/susmit31/Sketch_Filter/tree/master/imgs/test_ss.jpg)
 
 Input image:
 
-![Input] (/imgs/dp.jpg)
+![Input] (https://github.com/susmit31/Sketch_Filter/tree/master/imgs/dp.jpg)
 
 Output image:
 
-![Output] (/imgs/sketch.jpg)
+![Output] (https://github.com/susmit31/Sketch_Filter/tree/master/imgs/sketch.jpg)
 
