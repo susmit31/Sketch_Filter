@@ -20,5 +20,6 @@ function sketch_filter(input_filename,  save=false, keep_top =.25, num_cols= 1),
 	if save==true,
 		output_filename = input("Please enter the filename: ","s");
 		imwrite(output_img, output_filename);
+    printf("Saved! Have a great day!");
 	end
 end
